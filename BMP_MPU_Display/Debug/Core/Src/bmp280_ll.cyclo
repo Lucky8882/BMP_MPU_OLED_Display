@@ -1,0 +1,3 @@
+../Core/Src/bmp280_ll.c:4:19:bmp280_write_reg	1
+../Core/Src/bmp280_ll.c:12:19:bmp280_read_reg	2
+../Core/Src/bmp280_ll.c:23:19:bmp280_read_regs	2

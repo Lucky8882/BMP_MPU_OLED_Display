@@ -1,0 +1,3 @@
+../Core/Src/SSD1306_ll.c:5:23:OLED_write	1
+../Core/Src/SSD1306_ll.c:10:23:OLED_read_reg	2
+../Core/Src/SSD1306_ll.c:18:23:OLED_read_regs	2

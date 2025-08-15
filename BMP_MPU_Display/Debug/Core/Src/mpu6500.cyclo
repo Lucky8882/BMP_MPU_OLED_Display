@@ -1,0 +1,8 @@
+../Core/Src/mpu6500.c:5:19:mpu6500_init	1
+../Core/Src/mpu6500.c:10:19:mpu6500_set_accel_range	5
+../Core/Src/mpu6500.c:22:19:mpu6500_get_accel_range	6
+../Core/Src/mpu6500.c:36:19:mpu6500_set_gyro_range	5
+../Core/Src/mpu6500.c:48:19:mpu6500_get_gyro_range	6
+../Core/Src/mpu6500.c:62:19:mpu6500_read_accel	2
+../Core/Src/mpu6500.c:71:19:mpu6500_read_gyro	2
+../Core/Src/mpu6500.c:80:19:mpu6500_get_whoami	1
