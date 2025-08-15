@@ -64,8 +64,8 @@ The `main.c` file is the core of the project, orchestrating sensor initializatio
 For detailed information on the APIs used in this project, please refer to the following links:
 
 - [SSD1306 OLED Display API Reference](https://github.com/Lucky8882/SSD1306_drivers)
-- [MPU6500 Sensor API Reference](https://github.com/Lucky8882/BMP280_drivers)
-- [BMP280 Sensor API Reference](https://github.com/Lucky8882/MPU6500_BlackPill_driver)
+- [MPU6500 Sensor API Reference](https://github.com/Lucky8882/MPU6500_BlackPill_driver)
+- [BMP280 Sensor API Reference](https://github.com/Lucky8882/BMP280_drivers)
 
 ---
 
